@@ -1,0 +1,17 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||yarnpkg.com^
+||https://caniuse.com^
+||https://www.browserstack.com^
+||code.jquery.com^
+||fontawesome.com^
+||stacksnippets.net^
+||typescriptlang^
+||githubusercontent.com^
+||github.com^
+||gravatar.com^
+||tailwindcss.com^
+||theme-ui.com^
+||imgix.net^
+||jsfiddle.net^
+||carbonads.net^
