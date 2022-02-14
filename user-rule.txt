@@ -15,3 +15,8 @@
 ||imgix.net^
 ||jsfiddle.net^
 ||carbonads.net^
+||etsy.com^
+||googleapis.com^
+||google-analytics.com^
+||gstatic.com^
+||unsplash.com^
