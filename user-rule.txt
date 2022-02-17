@@ -20,3 +20,4 @@
 ||google-analytics.com^
 ||gstatic.com^
 ||unsplash.com^
+||jsdelivr.net^
