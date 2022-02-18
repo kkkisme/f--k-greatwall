@@ -21,3 +21,4 @@
 ||gstatic.com^
 ||unsplash.com^
 ||jsdelivr.net^
+||codepen.io^
