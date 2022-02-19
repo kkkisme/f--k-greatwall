@@ -22,3 +22,4 @@
 ||unsplash.com^
 ||jsdelivr.net^
 ||codepen.io^
+||dev.to^
