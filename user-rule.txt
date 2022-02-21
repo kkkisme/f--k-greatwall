@@ -23,3 +23,4 @@
 ||jsdelivr.net^
 ||codepen.io^
 ||dev.to^
+||greensock.com^
