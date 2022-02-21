@@ -23,4 +23,3 @@
 ||jsdelivr.net^
 ||codepen.io^
 ||dev.to^
-||byteimg.com^
